@@ -37,3 +37,4 @@ An external profile describing his background and contributions to the performin
 
 - [Instruments I Play](instruments.md)
 - [Carnatic Rhythm Lessons](carnatic-lessons.md)
+- [Rhythm Patterns](patterns.md)
