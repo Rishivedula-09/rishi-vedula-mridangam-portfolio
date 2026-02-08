@@ -1,7 +1,14 @@
-My Journey with Mridangam, Rhythm, and Structure
+# Rishi Vedula — Mridangam, Rhythm, and Structure
+
+*This is an ongoing learning portfolio. I update it regularly as I continue exploring rhythm, patterns, and connections to math and computer science.*
+
+---
+
+## My Journey with Mridangam
+
 I was introduced to Carnatic music in 2017, when my family was living in Orlando, Florida and I was in 3rd grade. My parents often took my sister and me to temples and weekend community programs. While we enjoyed playing outside like most kids, my parents also wanted us to stay connected to Indian culture.
 Around that time, they learned about teachers in our community who taught Indian classical arts — Mridangam and Bharatanatyam. What started as a weekend activity slowly became something much more meaningful in my life, even though I did not realize it at first.
-My Mridangam teacher is Sri Venupuri Srinivas, the founder of Navarasa Academy. He emphasizes discipline, strong fundamentals, and long-term commitment to the art. From the beginning, he made it clear to students and parents that learning Mridangam is a lifelong journey and not something that can be rushed.
+My Mridangam teacher is **Sri Venupuri Srinivas**, the founder of Navarasa Academy. He emphasizes discipline, strong fundamentals, and long-term commitment to the art. From the beginning, he made it clear to students and parents that learning Mridangam is a lifelong journey and not something that can be rushed.
 When I first started learning Mridangam, it was very difficult. My teacher required correct posture, proper hand position, and focused practice for long periods of time. I remember struggling during the early months because sitting on the floor for extended periods was uncomfortable and required concentration. Breaks were short, and expectations were high.
 My dad supported me by sitting next to me during daily practice. My teacher was always direct with parents and students — he explained clearly that progress takes years of patience and consistent effort. At the time, I felt his teaching style was very strict, but as I grew older, I understood that it came from deep respect for the art and for his students.
 The first six months were the hardest. My teacher corrected finger placement and hand movement immediately, explaining later how each position creates a different sound and meaning. I did not fully understand these details during my first year, but over time, I began to appreciate how precise and structured rhythm really is.
@@ -12,6 +19,18 @@ I continued learning Mridangam online for nearly two years. When my family later
 Along the way, I was exposed to other percussion instruments. In middle school, I learned snare drum, marimba, mallets, and synthesizer. I noticed similarities between Western percussion and Mridangam, even though one uses sticks and the other uses hands. In high school, I joined the band program and played snare drum for school performances.
 Over time, Mridangam became more than just music for me — it became a daily discipline and a way of thinking. Through rhythm, I learned patience, repetition, structure, and precision. These ideas continue to influence how I approach learning and problem-solving today.
 
-About My Teacher
-Sri Venupuri Srinivas is a Mridangam artist and the founder of Navarasa Academy, where he teaches Carnatic rhythm with a strong focus on fundamentals, discipline, and long-term growth. Together with his wife, who teaches Bharatanatyam, he has built a close-knit learning community connecting students and families across multiple cities.
+---
+
+## About My Teacher
+
+**Sri Venupuri Srinivas** is a Mridangam artist and the founder of **Navarasa Academy**, where he teaches Carnatic rhythm with a strong focus on fundamentals, discipline, and long-term growth. Together with his wife, who teaches Bharatanatyam, he has built a close-knit learning community connecting students and families across multiple cities.
 An external profile describing his background and contributions to the performing arts (written by others) can be found here: 🔗 https://www.sooryaperformingarts.org/venupuri-srinivas/
+
+
+---
+
+## What I’m Building Next
+
+- I am organizing my learning into clear pages: Instruments, Carnatic Lessons, Patterns, Music → Math → CS, Notes, and Media.
+- I will add short practice videos and written patterns over time.
+- I will maintain a dated notes log to show progress.
