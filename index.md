@@ -39,3 +39,4 @@ An external profile describing his background and contributions to the performin
 - [Carnatic Rhythm Lessons](carnatic-lessons.md)
 - [Rhythm Patterns](patterns.md)
 - [Notes / Research Log](notes.md)
+- [Music → Math → Computer Science](music-math-cs.md)
