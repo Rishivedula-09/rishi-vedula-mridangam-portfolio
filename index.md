@@ -40,3 +40,5 @@ An external profile describing his background and contributions to the performin
 - [Rhythm Patterns](patterns.md)
 - [Notes / Research Log](notes.md)
 - [Music → Math → Computer Science](music-math-cs.md)
+- [Media and Timeline](media.md)
+
