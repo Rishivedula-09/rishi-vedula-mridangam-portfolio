@@ -34,3 +34,5 @@ An external profile describing his background and contributions to the performin
 - I am organizing my learning into clear pages: Instruments, Carnatic Lessons, Patterns, Music → Math → CS, Notes, and Media.
 - I will add short practice videos and written patterns over time.
 - I will maintain a dated notes log to show progress.
+
+- [Instruments I Play](instruments.md)
