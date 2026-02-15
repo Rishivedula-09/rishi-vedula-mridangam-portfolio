@@ -43,12 +43,12 @@ Each tāla has a fixed number of beats that repeat.
 
 For example, Adi Tāla has 8 beats:
 
-1 2 3 4 | 5 6 | 7 8
+      1 2 3 4 | 5 6 | 7 8
 
 The mridangam artist plays patterns within these cycles and must end at the correct beat.
 This requires counting, timing, and precision.
 
-Tha ka dhi mi
+      Tha ka dhi mi
 
 Learning these patterns feels like working with structured sequences.
 
