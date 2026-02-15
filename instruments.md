@@ -451,11 +451,14 @@ Exploring marimba patterns helps me see how music connects with mathematical str
 
 To learn more about the marimba and percussion patterns, I explored these resources:
 
-Wikipedia – Marimba                                    https://en.wikipedia.org/wiki/Marimba
-Yamaha Musical Instrument Guide – Marimba              https://www.yamaha.com/en/musical_instrument_guide/marimba/
-Marimba overview and history                           https://www.superprof.com/blog/marimba-percussion-instrument/
+| Topic | Resource | Link |
+|------|---------|------|
+| Marimba overview and structure | Wikipedia – Marimba | https://en.wikipedia.org/wiki/Marimba |
+| Instrument design and sound | Yamaha Musical Instrument Guide – Marimba | https://www.yamaha.com/en/musical_instrument_guide/marimba/ |
+| History and musical role | Superprof – Marimba overview | https://www.superprof.com/blog/marimba-percussion-instrument/ |
 
 These resources helped me understand the structure, history, and musical role of the marimba.
+
 
 
 ⬆️ Back to top: [Navigation](#instruments-i-play---percussion-rhythm-and-patterns)
