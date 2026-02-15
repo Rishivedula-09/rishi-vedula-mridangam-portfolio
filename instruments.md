@@ -130,6 +130,11 @@ Exploring rhythm through different instruments helps me understand how music con
 I began my rhythm journey with the mridangam, which is deeply connected to Carnatic music and traditional rhythmic systems
 
 ## Mridangam
+
+![Mridangam instrument](images/mridangam.jpg)
+
+*Traditional Carnatic percussion instrument*
+
 ##  Mridangam: Rhythm, Culture, and Mathematical Thinking
 
 ##  1. What is the Mridangam?
@@ -224,6 +229,9 @@ This website documents my learning journey and my exploration of rhythm, pattern
 
 ---
 ## Snare Drum
+![Snare drum](images/snare.jpg)
+
+
 ## Snare Drum: Rhythm, Precision, and Patterns
 
 ### 1. What is a Snare Drum?
@@ -349,6 +357,9 @@ These resources help me understand the history, structure, and rhythmic techniqu
 
 ---
 ## Marimba
+
+![Marimba](images/marimba.jpg)
+
 ## Marimba: Melody, Rhythm, and Patterns
 
 ### 1. What is a Marimba?
