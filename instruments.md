@@ -129,6 +129,8 @@ Exploring rhythm through different instruments helps me understand how music con
 ---
 I began my rhythm journey with the mridangam, which is deeply connected to Carnatic music and traditional rhythmic systems
 
+---
+
 ## Mridangam
 
 ![Mridangam instrument](images/mridangam.jpg)
@@ -228,6 +230,9 @@ This website documents my learning journey and my exploration of rhythm, pattern
 
 
 ---
+
+---
+
 ## Snare Drum
 ![Snare drum](images/snare.jpg)
 
@@ -356,6 +361,9 @@ These resources help me understand the history, structure, and rhythmic techniqu
 
 
 ---
+
+---
+
 ## Marimba
 
 ![Marimba](images/marimba.jpg)
