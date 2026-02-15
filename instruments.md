@@ -192,12 +192,15 @@ This made me curious about how music, math, and computer science are connected.
 
 ## 6. My Research and Exploration
 
-### To learn more about the mridangam and its history, I explored these resources:
+### To learn more about the mridangam and its cultural and musical significance, I explored these resources:
 
-    Layapriya – Mridangam overview:                    https://layapriya.ca/mridangam/
-    Wikipedia – Mridangam history and structure        https://en.wikipedia.org/wiki/Mridangam
+| Topic | Resource | Link |
+|------|---------|------|
+| Mridangam overview & cultural context | Layapriya – Mridangam | https://layapriya.ca/mridangam/ |
+| History and structure | Wikipedia – Mridangam | https://en.wikipedia.org/wiki/Mridangam |
 
-I also watch performances and lessons online to better understand rhythm patterns and techniques.
+
+These resources helped me understand the history, structure, and role of the mridangam in Carnatic music and rhythm.
 
 
 
