@@ -497,4 +497,8 @@ Exploring these instruments has helped me understand that rhythm is a universal 
 As I continue learning, I am interested in exploring how musical rhythm connects with mathematical thinking and computer science concepts.
 
 
+This page will continue to evolve as I learn new rhythm patterns and explore deeper connections between music, math, and structured thinking.
+
+
+
 
