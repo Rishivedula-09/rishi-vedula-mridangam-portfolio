@@ -109,7 +109,7 @@ Exploring rhythm through different instruments helps me understand how music con
 
 ---
 
-
+## Mridangam
 ##  Mridangam: Rhythm, Culture, and Mathematical Thinking
 
 ##  1. What is the Mridangam?
@@ -196,7 +196,7 @@ I also watch performances and lessons online to better understand rhythm pattern
 This website documents my learning journey and my exploration of rhythm, patterns, and logic.
 
 ---
-
+## Snare Drum
 ## Snare Drum: Rhythm, Precision, and Patterns
 
 ### 1. What is a Snare Drum?
@@ -317,7 +317,7 @@ These resources help me understand the history, structure, and rhythmic techniqu
 
 
 ---
-
+## Marimba
 ## Marimba: Melody, Rhythm, and Patterns
 
 ### 1. What is a Marimba?
