@@ -33,9 +33,10 @@ These include:
 - [Snare Drum](#snare-drum)
 - [Marimba](#marimba)
             
-            **Mridangam** – a classical percussion instrument used in Carnatic music
-            **Snare Drum** – a widely used percussion instrument in Western music and marching bands
-            **Marimba** – a melodic percussion instrument that combines rhythm and pitch
+**Mridangam** – Classical Carnatic percussion instrument  
+**Snare Drum** – Western rhythm and marching percussion  
+**Marimba** – Melodic percussion combining rhythm and pitch
+
 
 Each instrument approaches rhythm differently, but all of them require timing, coordination, and pattern recognition. Exploring multiple instruments helps me see how rhythm is structured and performed across cultures.
 
