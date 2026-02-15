@@ -15,6 +15,7 @@ This page documents my exploration of percussion instruments and how they help m
 To understand rhythm more deeply, I am exploring different percussion instruments from different musical traditions.
 
 These include:
+            
             Mridangam – a classical percussion instrument used in Carnatic music
             Snare Drum – a widely used percussion instrument in Western music and marching bands
             Marimba – a melodic percussion instrument that combines rhythm and pitch
