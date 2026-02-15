@@ -140,6 +140,9 @@ I began my rhythm journey with the mridangam, which is deeply connected to Carna
 
 *Traditional Carnatic percussion instrument*
 
+---
+---
+
 ##  Mridangam: Rhythm, Culture, and Mathematical Thinking
 
 ##  1. What is the Mridangam?
@@ -239,6 +242,8 @@ This website documents my learning journey and my exploration of rhythm, pattern
 ## Snare Drum
 ![Snare drum](images/snare.jpg)
 
+---
+---
 
 ## Snare Drum: Rhythm, Precision, and Patterns
 
@@ -371,6 +376,9 @@ These resources help me understand the history, structure, and rhythmic techniqu
 ## Marimba
 
 ![Marimba](images/marimba.jpg)
+
+---
+---
 
 ## Marimba: Melody, Rhythm, and Patterns
 
