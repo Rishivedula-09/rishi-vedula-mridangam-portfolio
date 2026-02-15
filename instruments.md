@@ -322,15 +322,15 @@ Exploring these ideas helps me see rhythm as a system of patterns, numbers, and 
 
 ### 6. My Research and Exploration
 
-To learn more about the snare drum and percussion rhythms, I explored these resources:
+To learn more about percussion instruments and rhythm patterns, I explored the following resources:
 
-San Francisco Symphony – Snare Drum      https://www.sfsymphony.org/Archived-Pages/Education-Community/Instrument-of-the-Months-archive/Instrument-of-the-Month-snare-drum
+| Topic | Resource | Link |
+|------|---------|------|
+| Snare Drum overview | San Francisco Symphony – Snare Drum | https://www.sfsymphony.org/Archived-Pages/Education-Community/Instrument-of-the-Months-archive/Instrument-of-the-Month-snare-drum |
+| Snare Drum history & structure | Wikipedia – Snare Drum | https://en.wikipedia.org/wiki/Snare_drum |
+| Rhythm patterns & rudiments | Yamaha – Snare Drum Rudiments | https://hub.yamaha.com/drums/d-how-to/snare-drum-rudiments/ |
+| Instrument design & role | Kopf Percussion – Snare Drum Guide | https://www.kopfpercussion.com/blog/the-snare-drum-a-deep-dive-into-one-of-musics-most-essential-instruments/ |
 
-Wikipedia – Snare Drum                   https://en.wikipedia.org/wiki/Snare_drum
-
-Yamaha – Snare Drum Rudiments            https://hub.yamaha.com/drums/d-how-to/snare-drum-rudiments/
-
-Kopf Percussion – Snare Drum guide       https://www.kopfpercussion.com/blog/the-snare-drum-a-deep-dive-into-one-of-musics-most-essential-instruments/
 
 These resources help me understand the history, structure, and rhythmic techniques of the snare drum.
 
