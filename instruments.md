@@ -1,5 +1,19 @@
 # Instruments I Play - Percussion, Rhythm, and Patterns
 
+---
+### 🔗 Navigate this page
+**Jump to:**  
+[Introduction](#1-introduction-my-interest-in-rhythm) • 
+[Instruments](#2-instruments-i-explore) • 
+[Comparison](#3-comparing-percussion-instruments) • 
+[Rhythm Observations](#4-what-i-notice-about-rhythm-across-instruments) • 
+[Math & Logic](#5-rhythm-and-mathematical-thinking) • 
+[Mridangam](#mridangam) • 
+[Snare Drum](#snare-drum) • 
+[Marimba](#marimba)
+---
+
+
 ## 1. Introduction: My Interest in Rhythm
 
 I have always been interested in rhythm and how patterns are created in music.
@@ -19,9 +33,9 @@ These include:
 - [Snare Drum](#snare-drum)
 - [Marimba](#marimba)
             
-            Mridangam – a classical percussion instrument used in Carnatic music
-            Snare Drum – a widely used percussion instrument in Western music and marching bands
-            Marimba – a melodic percussion instrument that combines rhythm and pitch
+            **Mridangam** – a classical percussion instrument used in Carnatic music
+            **Snare Drum** – a widely used percussion instrument in Western music and marching bands
+            **Marimba** – a melodic percussion instrument that combines rhythm and pitch
 
 Each instrument approaches rhythm differently, but all of them require timing, coordination, and pattern recognition. Exploring multiple instruments helps me see how rhythm is structured and performed across cultures.
 
@@ -195,6 +209,10 @@ I also watch performances and lessons online to better understand rhythm pattern
 
 This website documents my learning journey and my exploration of rhythm, patterns, and logic.
 
+
+⬆️ Back to top: [Navigation](#instruments-i-play---percussion-rhythm-and-patterns)
+
+
 ---
 ## Snare Drum
 ## Snare Drum: Rhythm, Precision, and Patterns
@@ -316,6 +334,10 @@ Kopf Percussion – Snare Drum guide       https://www.kopfpercussion.com/blog/t
 These resources help me understand the history, structure, and rhythmic techniques of the snare drum.
 
 
+⬆️ Back to top: [Navigation](#instruments-i-play---percussion-rhythm-and-patterns)
+
+
+
 ---
 ## Marimba
 ## Marimba: Melody, Rhythm, and Patterns
@@ -430,6 +452,9 @@ Yamaha Musical Instrument Guide – Marimba              https://www.yamaha.com/
 Marimba overview and history                           https://www.superprof.com/blog/marimba-percussion-instrument/
 
 These resources helped me understand the structure, history, and musical role of the marimba.
+
+
+⬆️ Back to top: [Navigation](#instruments-i-play---percussion-rhythm-and-patterns)
 
 
 
