@@ -3,6 +3,11 @@
 This portfolio documents my long-term journey learning rhythm through mridangam and percussion.
 I am especially interested in how rhythm connects with patterns, mathematics, and structured thinking.
 
+![Rishi practicing mridangam](images/rishi.jpg)
+
+*Practice session during my learning journey*
+
+
 
 ---
 
@@ -38,6 +43,9 @@ I have also become curious about how rhythm patterns relate to mathematics, memo
 **Sri Venupuri Srinivas** is a Mridangam artist and the founder of **Navarasa Academy**, where he teaches Carnatic rhythm with a strong focus on fundamentals, discipline, and long-term growth. Together with his wife, who teaches Bharatanatyam, he has built a close-knit learning community connecting students and families across multiple cities.
 An external profile describing his background and contributions to the performing arts (written by others) can be found here: 🔗 https://www.sooryaperformingarts.org/venupuri-srinivas/
 
+![Learning with my teacher](images/teacher.jpg)
+
+*Learning rhythm under my teacher’s guidance*
 
 ---
 
