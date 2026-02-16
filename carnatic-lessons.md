@@ -23,6 +23,10 @@ I also started grouping them into smaller counted units like 4 and 2 to make it 
 
 Each pattern must always total 8 matrais, even if the internal grouping changes.
 
+Download original handwritten notes (PDF):  
+[Open PDF](docs/8matrai-original.pdf)
+
+
 
 ### Patterns I Learned (typed from my notes)
 
