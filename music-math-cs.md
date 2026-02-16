@@ -74,11 +74,11 @@ This made me wonder whether the structured grouping and synchronization in rhyth
 ### Questions I Want to Explore
 As I continue learning mridangam and rhythm patterns, I want to explore questions like:
 
-    How are rhythm patterns related to mathematical patterns?
-    How do musicians stay synchronized in complex rhythm cycles?
-    Can rhythm be represented as structured sequences or logic?
-    How do grouping and timing affect musical structure?
-    Are there deeper connections between rhythm and computational thinking?
+    - How are rhythm patterns related to mathematical patterns?  
+    - How do musicians stay synchronized in complex rhythm cycles?  
+    - Can rhythm be represented as structured sequences or logic?  
+    - How do grouping and timing affect musical structure?  
+    - Are there deeper connections between rhythm and computational thinking?
 
 I plan to continue adding observations here as I learn more.
 
