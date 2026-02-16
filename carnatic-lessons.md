@@ -157,7 +157,7 @@ These ideas made me curious about how rhythm might connect to mathematical think
 I have started recording my observations and questions as I continue learning.
 
 You can read my ongoing thoughts here:  
-[Music, Math & Computer Science](music-math-cs.html)
+[Music, Math & Computer Science](music-math-cs.md)
 
 
 ---
