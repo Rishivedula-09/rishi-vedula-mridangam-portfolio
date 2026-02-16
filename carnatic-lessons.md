@@ -1,4 +1,4 @@
- Carnatic Rhythm Lessons
+##Carnatic Rhythm Lessons – Learning Through Mridangam
 
 This page captures the Carnatic rhythm concepts I am learning through Mridangam. I am still a student, and this page reflects my understanding as it continues to grow.
 
@@ -142,6 +142,9 @@ When I thought about this more, it reminded me of how systems in math and comput
 In computing, data and instructions are usually organized into structured blocks instead of isolated single units, and systems must follow minimum valid groupings.
 
 Seeing this idea in rhythm made me realize that both music and computing depend on structure, grouping, and valid patterns.
+
+
+This lesson is my starting point in exploring how rhythm, math, and logical thinking connect as I continue learning mridangam.
 
 ---
 
