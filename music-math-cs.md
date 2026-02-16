@@ -99,20 +99,15 @@ As I explore connections between music, math, and computing, I have started look
     - How synchronization is important in both music and computing
 
 
-#### Rhythm Research & Inspiration
+#### Rhythm Research , Inspiration & Listening
 
 As I continue learning, I also watch and listen to experienced percussion artists and teachers to better understand rhythm, structure, and konnakkol.
 
-Some early references I am exploring:
+| Topic | Artist / Channel | Link |
+|------|------------------|------|
+| Konnakkol rhythm demonstration | Sri Somashekar Jois | https://www.instagram.com/reel/DLtbc8RhgsW/ |
+| Mridangam rhythm concepts & structured patterns | RhythMATRIX / Vidwan Shri K. V. Prasad | https://www.youtube.com/watch?v=2BRtpIzWW7o |
 
-- Konnakkol demonstrations by Sri Somashekar Jois (Instagram)
-  https://www.instagram.com/reel/DLtbc8RhgsW/
-
-- RhythMATRIX series featuring Vidwan Shri K. V. Prasad (YouTube)
-
-These help me observe how advanced artists think about rhythm, speed, and structured patterns.
-
-
-I will continue adding references and notes here as I learn more.
+These references help me observe how advanced artists think about rhythm, speed, and structured patterns.
 
 
