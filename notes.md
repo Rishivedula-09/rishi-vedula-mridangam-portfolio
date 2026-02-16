@@ -33,3 +33,15 @@ What is a simple way to represent “reset points” using math (like counting o
 
 **Sources (if any):**  
 - (Add links here later)
+
+
+
+## February 2026 – Rhythm Observation
+
+I watched a konnakkol demonstration by Sri Somashekar Jois and noticed how patterns are spoken and structured before being played. 
+
+ This helped me understand how rhythm can be organized logically before performance. I also learned lessons from my teacher
+
+I also explored videos from the RhythMATRIX series featuring Vidwan Shri K. V. Prasad to observe advanced rhythm structures and speed control.
+
+This is for thinking how can I develop my videos / lessons so I could deomostrate my skills.
