@@ -6,6 +6,7 @@ As I continue learning mridangam and Carnatic rhythm, I began noticing that rhyt
 
 Rhythm involves:
 
+
     - counting  
     - grouping  
     - structure  
@@ -46,8 +47,9 @@ Rhythm can be played faster or slower, but the structure must remain correct.
 
 When speed changes:
 
-  playing faster divides counts into smaller grouped units
-  playing slower expands them into larger grouped units
+    - playing faster divides counts into smaller grouped units  
+    - playing slower expands them into larger grouped units  
+
 
 Even though speed changes, the rhythmic cycle must stay consistent.
 
@@ -90,14 +92,5 @@ As I explore connections between music, math, and computing, I have started look
     How synchronization is important in both music and computing
 
 I will continue adding references and notes here as I learn more.
-
-
-### Early Reading & References
-As I continue exploring, I have started reading introductory material about:
-
-    mathematics in music and rhythm
-    pattern and structure in computing
-    synchronization in music and systems
-I will continue adding references here as I learn more.
 
 
