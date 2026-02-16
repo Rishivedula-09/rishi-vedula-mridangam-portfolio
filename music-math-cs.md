@@ -11,6 +11,8 @@ This made me curious about how music, math, and computer science might be connec
 This page is where I record my observations and questions as I continue learning.
 
 
+I am still at an early stage of learning, but I am beginning to notice interesting connections between rhythm, structure, and logical thinking.
+
 ### Patterns and Grouping
 In mridangam lessons, rhythm is always structured into grouped units.
 Patterns are usually organized in counts such as 2, 4, and 8 matrais.
@@ -81,6 +83,15 @@ As I explore connections between music, math, and computing, I have started look
     How synchronization is important in both music and computing
 
 I will continue adding references and notes here as I learn more.
+
+
+### Early Reading & References
+As I continue exploring, I have started reading introductory material about:
+
+    mathematics in music and rhythm
+    pattern and structure in computing
+    synchronization in music and systems
+I will continue adding references here as I learn more.
 
 
 
