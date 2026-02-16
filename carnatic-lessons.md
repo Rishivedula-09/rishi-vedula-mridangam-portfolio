@@ -26,7 +26,7 @@ Each pattern must always total 8 matrais, even if the internal grouping changes.
 ![8 matrai lesson](images/8matrai-lesson1.jpg)
 
 Download original handwritten notes (PDF):  
-[Open PDF](docs/8matrai-original.pdf)
+[Open PDF](docs/8matrai.pdf)
 
 
 
