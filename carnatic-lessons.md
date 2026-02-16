@@ -1,4 +1,4 @@
-##Carnatic Rhythm Lessons – Learning Through Mridangam
+## Carnatic Rhythm Lessons – Learning Through Mridangam
 
 This page captures the Carnatic rhythm concepts I am learning through Mridangam. I am still a student, and this page reflects my understanding as it continues to grow.
 
