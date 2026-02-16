@@ -148,6 +148,19 @@ This lesson is my starting point in exploring how rhythm, math, and logical thin
 
 ---
 
+## How This Lesson Made Me Think Further
+
+While learning this 8-matrai lesson, I began noticing that rhythm involves patterns, grouping, structure, and synchronization.
+
+These ideas made me curious about how rhythm might connect to mathematical thinking and computer science concepts such as structure, timing, and logical patterns.
+
+I have started recording my observations and questions as I continue learning.
+
+You can read my ongoing thoughts here:  
+[Music, Math & Computer Science](music-math-cs.html)
+
+
+---
 ## Korvai (Structured Pattern)
 
 A korvai is a structured rhythmic pattern that fits within a tala cycle. Practicing korvais taught me how smaller patterns combine to form longer sequences and how precision matters at transition points.
