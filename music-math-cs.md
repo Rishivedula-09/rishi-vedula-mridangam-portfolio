@@ -11,7 +11,8 @@ Rhythm involves:
     - grouping  
     - structure  
     - timing  
-    - pattern
+    - patterns
+
 
 While practicing lessons like 8-matrai patterns, I started seeing connections between rhythm, mathematical thinking, and logical structure.
 This made me curious about how music, math, and computer science might be connected.
@@ -29,10 +30,9 @@ Even when the syllables change, the total structure must remain balanced.
 
 For example:
 
-    4 + 4
-    2 + 2 + 4
-
-different groupings but same total
+    - 4 + 4
+    - 2 + 2 + 4
+    - different groupings but same total
 
 This reminded me of how mathematics uses grouping and combinations to create structured and balanced systems.
 
@@ -40,6 +40,8 @@ I also learned from my teacher that a single isolated unit is usually not used b
 There is always a minimum structured grouping needed to maintain balance and flow.
 
 This made me think about how structured systems in math and computing also follow rules and valid groupings.
+I am beginning to see that rhythm is not random sound, but a structured system that follows rules, patterns, and logical relationships.
+
 
 
 ### Speed, Ratios, and Synchronization
@@ -49,6 +51,7 @@ When speed changes:
 
     - playing faster divides counts into smaller grouped units  
     - playing slower expands them into larger grouped units  
+
 
 
 Even though speed changes, the rhythmic cycle must stay consistent.
@@ -87,9 +90,9 @@ I plan to continue adding observations here as I learn more.
 # Research & References (Early Exploration)
 As I explore connections between music, math, and computing, I have started looking at introductory resources:
 
-    Basic ideas of rhythm and mathematics in music
-    How computers use structured units and patterns to process information
-    How synchronization is important in both music and computing
+    - Basic ideas of rhythm and mathematics in music
+    - How computers use structured units and patterns to process information
+    - How synchronization is important in both music and computing
 
 I will continue adding references and notes here as I learn more.
 
