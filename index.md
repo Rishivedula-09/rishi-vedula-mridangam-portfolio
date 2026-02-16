@@ -44,7 +44,14 @@ I have also become curious about how rhythm patterns relate to mathematics, memo
 
 An external profile describing his background and contributions to the performing arts (written by others) can be found here:
 
-🔗 [External profile – Sri Venupuri Srinivas](https://www.sooryaperformingarts.org/venupuri-srinivas/)
+### Teacher & Academy Links
+
+| Resource | Link |
+|---------|------|
+| Navarasa Academy of Performing Arts (Official Facebook Page) | [Visit Facebook Page](https://www.facebook.com/p/NAVARASA-ACADEMY-OF-PERFORMING-ARTS-100063500260793/) |
+| Sri Venupuri Srinivas – Artist Profile & Contributions | [View External Profile](https://www.sooryaperformingarts.org/venupuri-srinivas/) |
+
+
 
 
 ![Learning with my teacher](images/teacher.jpg)
