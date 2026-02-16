@@ -2,8 +2,15 @@
 
 ### Why I Started Thinking About This
 
-As I continue learning mridangam and Carnatic rhythm, I began noticing that rhythm is not only about sound and performance.
-It also involves structure, counting, grouping, and patterns.
+As I continue learning mridangam and Carnatic rhythm, I began noticing that rhythm is not only about sound and performance. 
+
+Rhythm involves:
+
+    - counting  
+    - grouping  
+    - structure  
+    - timing  
+    - pattern
 
 While practicing lessons like 8-matrai patterns, I started seeing connections between rhythm, mathematical thinking, and logical structure.
 This made me curious about how music, math, and computer science might be connected.
