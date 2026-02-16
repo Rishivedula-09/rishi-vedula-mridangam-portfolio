@@ -95,18 +95,17 @@ In this lesson I also learned that rhythm can be played at different speeds.
 
 If played faster:
 
-     counts divide into smaller grouped units
-     more strokes fit into the same cycle
+     - counts divide into smaller grouped units
+     - more strokes fit into the same cycle
 
 If played slower:
 
-    counts expand into larger grouped units
-    each beat becomes longer
+    - counts expand into larger grouped units
+    - each beat becomes longer
 
 Even when speed changes, the structure must still total 8 matrais.
 
-
-This showed me that rhythm involves multiplication, division, and structured grouping.
+This showed me that rhythm also involves ideas similar to multiplication, division, and structured grouping.
 
 
 ### Early Connections I Notice (Math & Logical Thinking)
@@ -144,9 +143,10 @@ In computing, data and instructions are usually organized into structured blocks
 Seeing this idea in rhythm made me realize that both music and computing depend on structure, grouping, and valid patterns.
 
 
-This lesson is my starting point in exploring how rhythm, math, and logical thinking connect as I continue learning mridangam.
+This lesson is my starting point in exploring how rhythm, math, computer science and logical thinking connect as I continue learning mridangam.
 
 ---
+
 
 ## How This Lesson Made Me Think Further
 
