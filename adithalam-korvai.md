@@ -33,9 +33,33 @@ The korvai must fit within this structure and resolve correctly at the end of th
 
 ---
 
-## Patterns I Practiced (typed from notes)
+## Patterns I Learned (typed from my notes)
 
-(Paste Rishi’s exact korvai patterns here from notebook — do not change wording)
+The following korvai patterns repeat and resolve within the Adi Tala cycle.
+
+Tha ka dhi mi Tha ka jo nu | Tha dhin gi na thom (repeat)
+
+Tha dhin gi na thom Tha ka dhi mi | Tha dhin gi na thom (repeat)
+
+Tha ka dhi mi | Tha ka dhi mi | Tha dhin gi na thom (final landing)
+
+Each pattern is repeated in structured sequences and must land correctly at the start of the tala cycle.
+
+All korvai patterns must resolve accurately within the Adi Tala structure.
+
+
+## Understanding the Korvai Structure
+
+While practicing korvai patterns, I noticed that repetition and structure are very important.
+
+A korvai usually follows this format:
+
+pattern → repeat → repeat → final landing
+
+Each repetition must stay aligned with the tala cycle, and the final phrase must land correctly on the starting beat.
+
+This requires careful counting and consistency.
+
 
 ---
 
