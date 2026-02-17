@@ -16,15 +16,15 @@ These lessons reflect long-term discipline and help me understand rhythm as stru
 - [Lesson 2: 16 Matrai](16-matrai.md)
 
 ### Tala Lessons
-- [Adi Tala](adithalam-lesson1.md)
-- [Adi Tala Korvai](adithalam-korvai.md)
-- [Rupaka Tala](rupakathalam-lesson1.md)
-- [Rupaka Tala Korvai](rupakathalam-korvai.md)
+- [Lesson 3: Adi Tala](adithalam-lesson1.md)
+- [Lesson 4: Adi Tala Korvai](adithalam-korvai.md)
+- [Lesson 5: Rupaka Tala](rupakathalam-lesson1.md)
+- [Lesson 6: Rupaka Tala Korvai](rupakathalam-korvai.md)
 
 ### Chapu Tala Lessons
-- [Kanda Chapu](kandachapu-lesson1.md)
-- [Mishra Chapu](mishrachapu-lesson1.md)
-- [Mishra Chapu Korvai](mishrachapu-korvai.md)
+- [Lesson 7: Mishra Chapu](mishrachapu-lesson1.md)
+- [Lesson 8: Mishra Chapu Korvai](mishrachapu-korvai.md)
+- [Lesson 9: Kanda Chapu](kandachapu-lesson1.md)
 
 ---
 
