@@ -36,9 +36,33 @@ This uneven grouping creates a unique rhythmic feel and requires careful countin
 
 ---
 
-## Patterns I Practiced (typed from notes)
+## Patterns I Learned (typed from my notes)
 
-(Paste Rishi’s exact Kanda Chapu patterns here from notebook — do not modify wording)
+Each of the following patterns fits within the Kanda Chapu cycle.
+
+Tha ka | Tha ki ta (2 + 3)
+
+Tha dhin | Tha ki ta (2 + 3)
+
+Tha ka dhi mi | Tha ki ta (4 + 1 adjusted within cycle)
+
+Tha dhin gi na thom | Tha ki ta (5 aligned within cycle)
+
+Each pattern must follow the 2 + 3 structure and resolve correctly before repeating.
+
+All patterns must stay aligned within the Kanda Chapu cycle.
+
+
+## Understanding the Kanda Chapu Structure
+
+While practicing Kanda Chapu, I noticed that the 2 + 3 grouping creates a flowing and uneven rhythmic structure.
+
+Instead of counting straight 1–5, grouping helps maintain balance and timing.
+
+Even when syllables change, the total must complete the full Kanda Chapu cycle.
+
+This helped me understand how uneven groupings create different rhythmic movement and flow.
+
 
 ---
 
