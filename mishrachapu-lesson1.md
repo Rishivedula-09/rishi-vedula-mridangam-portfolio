@@ -35,10 +35,35 @@ The uneven structure makes this tala challenging and interesting to practice.
 [Open PDF](docs/mishrachapu-lesson1.pdf)
 
 ---
+## Patterns I Learned (typed from my notes)
 
-## Patterns I Practiced (typed from notes)
+Each of the following patterns fits within the Mishra Chapu cycle.
 
-(Paste Rishi’s exact Mishra Chapu patterns here — do not modify wording)
+Tha ki ta | Tha ka dhi mi | Tha ka jo nu (3 + 2 + 2)
+
+Tha dhin gi na thom | Tha ki ta | Tha ka dhi mi (3 + 2 + 2)
+
+Tha ka dhi mi | Tha ki ta | Tha dhin gi na thom (2 + 3 + 2)
+
+Tha dhin gi na thom | Tha ka dhi mi | Tha ki ta (3 + 2 + 2)
+
+Each pattern must follow the 3 + 2 + 2 structure and resolve correctly before repeating.
+
+All patterns must stay aligned within the Mishra Chapu cycle.
+
+
+
+## Understanding the Mishra Chapu Structure
+
+While practicing Mishra Chapu, I noticed that the uneven grouping creates a unique rhythmic feel.
+
+Common grouping:
+3 + 2 + 2
+
+Instead of counting straight 1–7, grouping helps maintain structure and balance.
+
+Even when the syllables change, the total must always complete the Mishra Chapu cycle.
+
 
 ---
 
