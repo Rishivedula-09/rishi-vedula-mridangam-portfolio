@@ -1,0 +1,81 @@
+# Lesson 4: Adi Tala Korvai
+
+[⬅ Back to Carnatic Lessons](carnatic-lessons.html)
+
+---
+
+## What is a Korvai?
+
+A korvai is a structured rhythmic pattern that is repeated and completed to land precisely on the starting beat of the tala cycle.
+
+In this lesson, I practiced a korvai in Adi Tala, which follows an 8-beat cycle.  
+The goal of a korvai is to maintain structure, repetition, and correct landing at the end of the cycle.
+
+---
+
+## Tala Structure (Adi Tala)
+
+Adi Tala follows an 8-beat cycle:
+
+1 2 3 4 | 5 6 | 7 8
+
+The korvai must fit within this structure and resolve correctly at the end of the cycle.
+
+---
+
+## Original Handwritten Notes
+![Adi tala korvai handwritten](images/adithalam-korvai.jpg)
+
+---
+
+## Download Original Notes (PDF)
+[Open PDF](docs/adithalam-korvai.pdf)
+
+---
+
+## Patterns I Practiced (typed from notes)
+
+(Paste Rishi’s exact korvai patterns here from notebook — do not change wording)
+
+---
+
+## Understanding the Structure
+
+While practicing this korvai, I noticed that:
+
+- patterns repeat in structured sequences  
+- each repetition must stay aligned with the tala  
+- the final pattern must land exactly on the starting beat  
+
+This requires careful counting and consistency.
+
+---
+
+## Thinking in Repetition and Cycles
+
+A korvai uses repetition and structure.
+
+For example:
+pattern → repeat → repeat → final landing  
+
+This showed me that rhythm can be built using repeating structured sequences.
+
+Maintaining alignment across repetitions improves timing and control.
+
+---
+
+## Early Connections I Notice (Patterns & Logic)
+
+Practicing korvai patterns feels similar to structured sequences where:
+
+- steps repeat  
+- timing must remain consistent  
+- final result must land at correct position  
+
+This made me think about how repetition and structure are important in both rhythm and logical systems.
+
+---
+
+## Reflection (to be added gradually)
+
+I will continue adding observations from practice and how these patterns help improve timing and structured thinking.
