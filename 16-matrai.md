@@ -31,7 +31,7 @@ Each pattern must always total 16 matrais.
 ---
 
 ## Download Original Notes (PDF)
-[Open PDF](docs/16matrai.jpg.pdf)
+[Open PDF](docs/16matrai.pdf)
 
 ---
 
