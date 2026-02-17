@@ -33,9 +33,37 @@ This grouping helps maintain alignment across the cycle.
 
 ---
 
-## Patterns I Practiced (typed from notes)
+## Patterns I Learned (typed from my notes)
 
-(Paste Rishi’s exact Adi Tala patterns here, typed exactly.)
+Each of the following patterns fits within the Adi Tala cycle (8 beats).
+
+Tha ka dhi mi | Tha ka jo nu (4 + 4)
+
+Tha dhin gi na thom | Tha ka dhi mi (4 + 4)
+
+Tha ka dhi mi | Tha dhin gi na thom (4 + 4)
+
+Tha dhin gi na thom | Tha dhin gi na thom (4 + 4)
+
+Each pattern must stay aligned with the 8-beat Adi Tala cycle.
+
+All patterns must resolve correctly before the cycle repeats.
+
+
+## Understanding the Adi Tala Structure
+
+While practicing Adi Tala, I noticed that each pattern must align with the full 8-beat cycle.
+
+There are different ways to group the beats:
+
+4 + 2 + 2  
+2 + 2 + 2 + 2  
+4 + 4  
+
+Even when the internal grouping changes, the total must remain within the Adi Tala cycle.
+
+This helped me understand how tala provides a structured framework for rhythm.
+
 
 ---
 
