@@ -1,6 +1,6 @@
 # Lesson 2: Understanding 16-Matrai in Mridangam
 
-[⬅ Back to Carnatic Lessons](carnatic-lessons.html)
+[⬅ Back to Carnatic Lessons](carnatic-lessons.md)
 
 ---
 
