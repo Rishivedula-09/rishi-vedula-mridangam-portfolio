@@ -35,10 +35,31 @@ The korvai must align correctly within this structure and resolve at the right p
 [Open PDF](docs/mishrachapu-korvai.pdf)
 
 ---
+## Patterns I Learned (typed from my notes)
 
-## Patterns I Practiced (typed from notes)
+The following korvai patterns repeat and resolve within the Mishra Chapu cycle.
 
-(Paste Rishi’s exact handwritten korvai patterns here — do not modify wording)
+Tha ki ta Tha ka dhi mi | Tha ka jo nu (repeat)
+
+Tha dhin gi na thom Tha ki ta | Tha dhin gi na thom (repeat)
+
+Tha ka dhi mi | Tha ki ta | Tha dhin gi na thom (final landing)
+
+Each korvai pattern is repeated in structured sequences and must resolve correctly at the start of the tala cycle.
+
+All korvai patterns must stay aligned within the Mishra Chapu structure.
+
+
+## Understanding the Korvai Structure
+
+While practicing Mishra Chapu korvai, I noticed that repetition must stay aligned with the 3+2+2 grouping.
+
+A korvai usually follows:
+pattern → repeat → repeat → final landing
+
+The final phrase must land correctly at the start of the cycle.  
+This requires careful counting and timing consistency.
+
 
 ---
 
