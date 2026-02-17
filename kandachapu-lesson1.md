@@ -27,7 +27,7 @@ This uneven grouping creates a unique rhythmic feel and requires careful countin
 ---
 
 ## Original Handwritten Notes
-![Kanda chapu handwritten](images/kandachapu-lesson1.jpg)
+![Kanda chapu handwritten](images/kandachapu-lesson1.png)
 
 ---
 
