@@ -1,6 +1,37 @@
 ## Carnatic Rhythm Lessons – Learning Through Mridangam
 
-This page captures the Carnatic rhythm concepts I am learning through Mridangam. I am still a student, and this page reflects my understanding as it continues to grow.
+# Carnatic Rhythm Lessons – Mridangam Practice
+
+This section documents structured mridangam lessons that I have practiced over several years of training.  
+Each lesson includes original handwritten notes, structured rhythm patterns, and explanations of tala and matrai.
+
+These lessons reflect long-term discipline and help me understand rhythm as structured patterns built on timing and repetition.
+
+---
+
+## Lesson Index
+
+### Matrai Structure Lessons
+- [8 Matrai Rhythm Structure](lessons/8-matrai.md)
+- [16 Matrai Rhythm Structure](lessons/16-matrai.md)
+
+### Tala Lessons
+- [Adi Tala](lessons/adi-tala.md)
+- [Adi Tala Korvai](lessons/adi-tala-korvai.md)
+- [Rupaka Tala](lessons/rupaka-tala.md)
+- [Rupaka Tala Korvai](lessons/rupaka-korvai.md)
+
+### Chapu Tala Lessons
+- [Kanda Chapu](lessons/kanda-chapu.md)
+- [Mishra Chapu](lessons/mishra-chapu.md)
+- [Mishra Chapu Korvai](lessons/mishra-chapu-korvai.md)
+
+---
+
+## About These Lessons
+All lessons shown here are based on actual practice and handwritten notes.  
+Over time, I will continue adding reflections and exploring how rhythm connects with patterns, mathematics, and structured thinking.
+
 
 ---
 
