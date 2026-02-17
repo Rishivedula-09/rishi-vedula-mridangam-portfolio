@@ -34,9 +34,32 @@ Each korvai must align correctly within the cycle and resolve at the right point
 
 ---
 
-## Patterns I Practiced (typed from notes)
+## Patterns I Learned (typed from my notes)
 
-(Paste Rishi’s exact handwritten korvai patterns here — do not modify wording)
+The following korvai patterns repeat and resolve within the Rupaka Tala cycle.
+
+Tha ki ta Tha ka dhi mi | Tha dhin gi na thom (repeat)
+
+Tha dhin gi na thom Tha ki ta | Tha dhin gi na thom (repeat)
+
+Tha ka dhi mi | Tha ki ta | Tha dhin gi na thom (final landing)
+
+Each korvai pattern is repeated in structured sequences and must resolve correctly at the start of the tala cycle.
+
+All korvai patterns must stay aligned within the Rupaka Tala structure.
+
+
+## Understanding the Korvai Structure
+
+While practicing korvai in Rupaka Tala, I observed that repetition must remain aligned with the tala cycle.
+
+A korvai usually follows a structured sequence:
+
+pattern → repeat → repeat → final landing
+
+The final phrase must land correctly at the beginning of the cycle.  
+This requires accurate counting and consistent timing.
+
 
 ---
 
