@@ -25,12 +25,12 @@ Each korvai must align correctly within the cycle and resolve at the right point
 ---
 
 ## Original Handwritten Notes
-![Rupaka korvai handwritten](images/rupakathalam-lesson1.jpg)
+![Rupaka korvai handwritten](images/rupakathalam-korvai.jpg)
 
 ---
 
 ## Download Original Notes (PDF)
-[Open PDF](docs/rupakathalam-lesson1.pdf)
+[Open PDF](docs/rupakathalam-korvai.pdf)
 
 ---
 
