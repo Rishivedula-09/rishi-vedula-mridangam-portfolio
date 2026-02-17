@@ -35,11 +35,38 @@ Each pattern must always total 16 matrais.
 
 ---
 
-## Patterns I Practiced (typed from notes)
+## Patterns I Learned (typed from my notes)
 
-Tha kita thaka thari kita thaka
-Thom kita thaka thari kita thaka
-Thaka thari kita thaka
+Each of the following patterns equals 16 matrais.
+
+Tham kita thaka thari kita thaka | Thom kita thaka thari kita thaka (8 + 8)
+
+Thaka thari kita thaka | Thaka thari kita thaka | Thaka thari kita thaka | Thaka thari kita thaka (4 + 4 + 4 + 4)
+
+Thaka dhina thaka thari kita thaka | Thaka dhina thaka thari kita thaka (8 + 8)
+
+Naka dhina naka thari kita thaka | Naka dhina thaka thari kita thaka (8 + 8)
+
+Thom kita thaka thari kita thaka | Thom kita thaka thari kita thaka (8 + 8)
+
+Each line completes one full 16-matrai cycle.
+
+All patterns must total 16 matrais before repeating.
+
+
+## Understanding the 16-Matrai Structure
+
+While practicing these patterns, I noticed that longer cycles require stronger internal counting and concentration.
+
+There are many ways to make 16:
+
+8 + 8  
+4 + 4 + 4 + 4  
+2 + 2 + 4 + 8  
+
+Even when the syllables change, the total must always remain 16.
+
+This helped me understand how longer rhythmic cycles stay balanced and structured.
 
 
 
