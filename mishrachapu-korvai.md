@@ -1,6 +1,6 @@
 # Lesson 8: Mishra Chapu Korvai
 
-[⬅ Back to Carnatic Lessons](carnatic-lessons.mdl)
+[⬅ Back to Carnatic Lessons](carnatic-lessons.md)
 
 ---
 
