@@ -17,7 +17,7 @@ These lessons reflect long-term discipline and help me understand rhythm as stru
 
 ### Tala Lessons
 - [Adi Tala](adithalam-lesson1.md)
-- [Adi Tala Korvai](lessons/adi-tala-korvai.md)
+- [Adi Tala Korvai](adithalam-korvai.md)
 - [Rupaka Tala](lessons/rupaka-tala.md)
 - [Rupaka Tala Korvai](lessons/rupaka-korvai.md)
 
