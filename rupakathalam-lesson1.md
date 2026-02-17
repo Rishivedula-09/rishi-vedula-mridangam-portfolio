@@ -34,9 +34,34 @@ Each pattern must align correctly within the tala and repeat with consistency.
 
 ---
 
-## Patterns I Practiced (typed from notes)
+## Patterns I Learned (typed from my notes)
 
-(Paste Rishi’s exact Rupaka Tala patterns here — do not modify wording)
+Each of the following patterns fits within the Rupaka Tala cycle.
+
+Tha ki ta | Tha ka dhi mi (3 + 4)
+
+Tha dhin gi na thom | Tha ki ta (4 + 3)
+
+Tha ka dhi mi | Tha ka jo nu (4 + 4 adjusted within cycle)
+
+Tha dhin gi na thom | Tha dhin gi na thom (repeated grouping)
+
+Each pattern must stay aligned within the Rupaka Tala structure and resolve correctly before repeating.
+
+
+## Understanding the Rupaka Tala Structure
+
+While practicing Rupaka Tala, I noticed that the grouping can feel different from Adi Tala because of its structure.
+
+Common groupings include:
+
+3 + 2 + 2  
+or  
+6-beat flowing structure  
+
+Even though the grouping feels different, the cycle must remain balanced and complete before repeating.
+
+This helped me understand how different tala structures create different rhythmic flow and balance.
 
 ---
 
