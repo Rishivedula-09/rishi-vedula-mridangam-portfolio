@@ -1,6 +1,6 @@
 # Lesson 4: Adi Tala Korvai
 
-[⬅ Back to Carnatic Lessons](carnatic-lessons.html)
+[⬅ Back to Carnatic Lessons](carnatic-lessons.md)
 
 ---
 
