@@ -1,6 +1,6 @@
 # Lesson 3: Adi Tala (Ādi Tāḷa) – 8 Beat Cycle
 
-[⬅ Back to Carnatic Lessons](carnatic-lessons.html)
+[⬅ Back to Carnatic Lessons](carnatic-lessons.md)
 
 ---
 
