@@ -13,7 +13,7 @@ These lessons reflect long-term discipline and help me understand rhythm as stru
 
 ### Matrai Structure Lessons
 - [8 Matrai Rhythm Structure](lessons/8-matrai.md)
-- [Lesson 2: 16 Matrai](16-matrai.md))
+- [Lesson 2: 16 Matrai](16-matrai.md)
 
 ### Tala Lessons
 - [Adi Tala](lessons/adi-tala.md)
