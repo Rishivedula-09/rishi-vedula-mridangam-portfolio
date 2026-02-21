@@ -122,6 +122,25 @@ When speed changes:
 
 This made me realize rhythm also uses ideas like multiplication, division, and structured grouping.
 
+### Simple Logical Model (Connecting Rhythm to Structure)
+
+In this lesson, each rhythm line must fit into a fixed cycle:
+
+Total cycle = 8 matrais  
+
+Some valid patterns:
+- 4 + 4 = 8 ✔  
+- 2 + 2 + 4 = 8 ✔  
+- 2 + 2 + 2 + 2 = 8 ✔  
+
+If a pattern becomes:
+- 4 + 4 + 2 = 10 ✘  
+
+It does not resolve correctly and must be adjusted.
+
+This simple rule helped me see that rhythm follows logical and mathematical structure.  
+Every pattern must satisfy a constraint before it is complete.
+
 ### Simple Logic Rule (for non-music readers)
 
 In this lesson, each line must fit inside a fixed cycle:
