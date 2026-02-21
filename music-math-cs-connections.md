@@ -47,7 +47,35 @@ Below are the main mridangam lessons connected to mathematical and computational
 - Patterns behave like ordered sequences  
 - Repetition resembles loops  
 - Pattern design follows algorithmic thinking  
-- Each structure must satisfy logical constraints  
+- Each structure must satisfy logical constraints
+
+## 8 Matrai → Math and Computer Science
+
+In this lesson I practice rhythmic patterns built on 8 matrai (units).  
+While learning and repeating these patterns, I started noticing how rhythm connects naturally to ideas in mathematics and computer science.
+
+### Math connections I observe
+
+- The total count is always 8.
+- 8 can be divided into different groupings:
+  - 4 + 4
+  - 2 + 2 + 4
+  - 2 + 2 + 2 + 2
+- Even when the internal grouping changes, the total remains the same.
+- A rhythmic phrase must complete exactly within the 8-count structure.
+- This reflects mathematical ideas such as number partitioning and modular counting.
+- If a pattern does not complete within 8, it must be adjusted to land correctly.
+
+### Computer science connections I observe
+
+- Each bol (tha, kita, thaka) acts like a small building block.
+- A full 8-matrai cycle feels like a fixed container that must be filled correctly.
+- Repeating patterns feels similar to loops in programming.
+- Smaller groupings inside the 8-beat cycle feel like nested structures.
+- When creating a korvai, I must check whether the pattern fits exactly into the cycle.
+- This feels similar to designing and testing an algorithm so that it produces a correct result.
+
+➡️ [Open 8 Matrai Lesson](8matrai.md)
 
 ➡️ [Open 8 Matrai Lesson](8matrai.md)
 
