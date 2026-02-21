@@ -100,6 +100,13 @@ This made me think about how repetition and structure are important in both rhyt
 
 ---
 
-## Reflection (to be added gradually)
+---
 
-I will continue adding observations from practice and how these patterns help improve timing and structured thinking.
+### Music, Math, and Computer Science Connection
+
+This lesson connects to mathematical and computational thinking.
+
+See full connections here:  
+➡️ [Music → Math → Computer Science Connections](music-math-cs-connections.md)
+
+
