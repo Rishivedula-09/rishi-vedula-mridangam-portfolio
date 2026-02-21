@@ -169,3 +169,13 @@ A korvai is a structured rhythmic pattern that fits within a tala cycle. Practic
 ## Practice and Discipline
 
 Carnatic rhythm requires daily practice and attention to posture, hand position, and sound quality. Through practice, I learned patience and consistency, and I am still improving every day.
+
+
+---
+
+### Music, Math, and Computer Science Connection
+
+This lesson connects to mathematical and computational thinking.
+
+See full connections here:  
+➡️ [Music → Math → Computer Science Connections](music-math-cs-connections.md)
