@@ -145,19 +145,11 @@ This reinforced the importance of structure, grouping, and balance in rhythm.
 
 ---
 
-## How This Lesson Made Me Think Further
+---
 
-This lesson helped me see that rhythm involves:
-- patterns  
-- grouping  
-- timing  
-- structure  
-- repetition  
+### Music, Math, and Computer Science Connection
 
-These ideas made me curious about how rhythm connects with mathematics, logical thinking, and computer science concepts such as structured sequences and timing.
+This lesson connects to mathematical and computational thinking.
 
-I will continue documenting these observations as I learn more.
-
-You can also read my ongoing thoughts here:
-
-**Music, Math & Computer Science**
+See full connections here:  
+➡️ [Music → Math → Computer Science Connections](music-math-cs-connections.md)
