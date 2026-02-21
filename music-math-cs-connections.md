@@ -75,7 +75,23 @@ While learning and repeating these patterns, I started noticing how rhythm conne
 - When creating a korvai, I must check whether the pattern fits exactly into the cycle.
 - This feels similar to designing and testing an algorithm so that it produces a correct result.
 
-➡️ [Open 8 Matrai Lesson](8matrai.md)
+### Simple Logical Model
+
+If I think of 8 matrai as a fixed cycle:
+
+Total cycle = 8  
+
+Some possible patterns:
+- 4 + 4 = 8 ✔ (lands correctly)
+- 2 + 2 + 4 = 8 ✔ (lands correctly)
+- 2 + 2 + 2 + 2 = 8 ✔ (lands correctly)
+
+If a pattern becomes:
+- 4 + 4 + 2 = 10 ✘ (does not land correctly)
+
+Then the pattern must be adjusted so the total fits exactly into 8.
+
+This simple rule helped me understand how rhythmic structure follows mathematical logic and constraint-based thinking.
 
 ➡️ [Open 8 Matrai Lesson](8matrai.md)
 
