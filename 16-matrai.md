@@ -136,6 +136,28 @@ Maintaining rhythm requires:
 
 ---
 
+### Structural Logic of 16 Matrai
+
+In this lesson, the total cycle expands to 16 matrais.
+
+This helped me see how rhythmic structure scales while still following clear rules.
+
+Some valid structures:
+- 8 + 8 = 16  
+- 4 + 4 + 4 + 4 = 16  
+- 2 + 2 + 4 + 8 = 16  
+
+Even when internal groupings change, the total must remain 16.
+
+If a pattern exceeds or falls short of 16, it does not resolve correctly and must be adjusted.
+
+This showed me that rhythm follows the same kind of structural logic used in mathematics:
+- working with multiples  
+- grouping within a fixed total  
+- validating whether a structure fits a defined constraint
+
+- This also helped me understand how larger structures can be built from smaller repeating units while still maintaining an overall constraint.
+
 ## What My Teacher Explained
 
 My teacher explained that longer cycles like 16 matrais require strong internal counting and control.  
@@ -145,7 +167,6 @@ This reinforced the importance of structure, grouping, and balance in rhythm.
 
 ---
 
----
 
 ### Music, Math, and Computer Science Connection
 
