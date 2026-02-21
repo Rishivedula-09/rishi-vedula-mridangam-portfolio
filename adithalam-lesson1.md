@@ -134,6 +134,8 @@ It does not resolve correctly and must be adjusted.
 
 This showed me how rhythmic structure follows clear mathematical and logical rules.
 
+This helped me see rhythm not just as music, but as a structured system that must stay consistent while allowing creative variation inside it.
+
 ---
 ## Reflection (to be added gradually)
 
