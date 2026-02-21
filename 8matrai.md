@@ -122,6 +122,8 @@ When speed changes:
 
 This made me realize rhythm also uses ideas like multiplication, division, and structured grouping.
 
+Even without knowing the sound of the rhythm, this structure can be understood purely through numbers and logical rules.
+
 ### Simple Logical Model (Connecting Rhythm to Structure)
 
 In this lesson, each rhythm line must fit into a fixed cycle:
