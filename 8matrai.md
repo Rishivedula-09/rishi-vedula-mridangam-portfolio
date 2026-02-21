@@ -139,37 +139,6 @@ Seeing this idea in rhythm made me realize that both music and computing depend 
 
 This lesson is my starting point in exploring how rhythm, math, computer science and logical thinking connect as I continue learning mridangam.
 
----
-
-
-## How This Lesson Made Me Think Further
-
-While learning this 8-matrai lesson, I began noticing that rhythm involves patterns, grouping, structure, and synchronization.
-
-These ideas made me curious about how rhythm might connect to mathematical thinking and computer science concepts such as structure, timing, and logical patterns.
-
-I have started recording my observations and questions as I continue learning.
-
-I have started recording these observations here:
-
-Music, Math & Computer Science
-
-
-You can read my ongoing thoughts here:  
-[Music, Math & Computer Science](music-math-cs.md)
-
-
----
-## Korvai (Structured Pattern)
-
-A korvai is a structured rhythmic pattern that fits within a tala cycle. Practicing korvais taught me how smaller patterns combine to form longer sequences and how precision matters at transition points.
-
----
-
-## Practice and Discipline
-
-Carnatic rhythm requires daily practice and attention to posture, hand position, and sound quality. Through practice, I learned patience and consistency, and I am still improving every day.
-
 
 ---
 
