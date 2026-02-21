@@ -101,6 +101,11 @@ These ideas connect to structured pattern thinking where grouping and alignment 
 
 ---
 
-## Reflection (to be added gradually)
+---
 
-I will continue adding observations as I practice Mishra Chapu patterns and understand their structure more deeply.
+### Music, Math, and Computer Science Connection
+
+This lesson connects to mathematical and computational thinking.
+
+See full connections here:  
+➡️ [Music → Math → Computer Science Connections](music-math-cs-connections.md)
