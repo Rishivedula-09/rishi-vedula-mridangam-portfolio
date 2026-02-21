@@ -92,3 +92,13 @@ This is similar to pattern-based thinking where repetition and alignment matter.
 ## Reflection (to be added gradually)
 
 (Observations from practice and learning will be added over time.)
+
+
+---
+
+### Music, Math, and Computer Science Connection
+
+This lesson connects to mathematical and computational thinking.
+
+See full connections here:  
+➡️ [Music → Math → Computer Science Connections](music-math-cs-connections.md)
