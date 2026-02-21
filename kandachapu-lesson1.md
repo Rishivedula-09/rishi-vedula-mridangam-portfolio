@@ -101,6 +101,11 @@ This feels similar to pattern-based systems where structure and alignment are im
 
 ---
 
-## Reflection (to be added gradually)
+---
 
-I will continue adding observations as I practice Kanda Chapu and improve timing and control.
+### Music, Math, and Computer Science Connection
+
+This lesson connects to mathematical and computational thinking.
+
+See full connections here:  
+➡️ [Music → Math → Computer Science Connections](music-math-cs-connections.md)
