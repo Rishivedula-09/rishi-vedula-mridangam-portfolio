@@ -158,6 +158,24 @@ This showed me that rhythm follows the same kind of structural logic used in mat
 
 - This also helped me understand how larger structures can be built from smaller repeating units while still maintaining an overall constraint.
 
+### Simple Logical Model
+
+If I think of 16 matrai as a fixed structure:
+
+Total cycle = 16  
+
+Some valid patterns:
+- 8 + 8 = 16 ✔  
+- 4 + 4 + 4 + 4 = 16 ✔  
+- 2 + 2 + 4 + 8 = 16 ✔  
+
+If a pattern becomes:
+- 8 + 8 + 2 = 18 ✘  
+
+It does not resolve correctly and must be adjusted.
+
+This helped me see that longer rhythmic cycles follow the same kind of structural rules used in mathematics and logical systems.
+
 ## What My Teacher Explained
 
 My teacher explained that longer cycles like 16 matrais require strong internal counting and control.  
