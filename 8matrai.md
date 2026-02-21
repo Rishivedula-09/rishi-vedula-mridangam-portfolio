@@ -122,6 +122,16 @@ When speed changes:
 
 This made me realize rhythm also uses ideas like multiplication, division, and structured grouping.
 
+### Simple Logic Rule (for non-music readers)
+
+In this lesson, each line must fit inside a fixed cycle:
+
+- Total cycle = 8 matrais
+- Pattern total = sum of grouped units (like 4+4 or 2+2+4)
+
+If (pattern total) % 8 = 0 → the pattern resolves correctly.  
+If not → the pattern must be adjusted to land correctly.
+
 
 
 ### What My Teacher Explained About Structure
