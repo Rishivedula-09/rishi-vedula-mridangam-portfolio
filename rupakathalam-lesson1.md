@@ -103,7 +103,11 @@ Maintaining rhythm requires:
 These ideas are similar to pattern-based thinking where structure and timing must remain consistent.
 
 ---
+---
 
-## Reflection (to be added gradually)
+### Music, Math, and Computer Science Connection
 
-I will continue adding observations as I practice and understand more about how different tala structures work.
+This lesson connects to mathematical and computational thinking.
+
+See full connections here:  
+➡️ [Music → Math → Computer Science Connections](music-math-cs-connections.md)
