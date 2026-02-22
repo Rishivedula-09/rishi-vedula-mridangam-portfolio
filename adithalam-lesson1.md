@@ -116,34 +116,6 @@ This showed me how repeating systems depend on correct alignment at the end of e
 Even small timing differences can affect the full structure if they are not corrected.
 
 
---
-
-### Structural Logic of Adi Tāḷa
-
-While practicing Adi Tāḷa, I began to see it as a structured system rather than just a rhythm pattern.
-
-The total cycle always remains 8 beats, but the internal grouping can change:
-- 4 + 2 + 2
-- 2 + 2 + 2 + 2
-- 4 + 4
-
-Even when the internal structure changes, the total must always resolve to 8 before the cycle repeats.
-
-This helped me notice several structural ideas:
-
-**Mathematical thinking**
-- working with a fixed total (8)
-- grouping numbers in multiple valid ways
-- ensuring that all parts sum correctly
-- adjusting patterns when they exceed or fall short
-
-**Logical / computational thinking**
-- the cycle behaves like a repeating loop
-- patterns must align before the loop resets
-- internal groupings act like smaller building blocks
-- each pattern must satisfy a constraint before repeating
-
-Adi Tāḷa showed me how a stable system can allow flexibility inside it, as long as the overall structure remains consistent.
 
 
 ---
@@ -177,6 +149,7 @@ This requires careful attention, counting, and planning across the full cycle.
 
 I began to see rhythm not just as sound, but as a structured system that repeats with consistency and balance.
 
+This lesson helped me see how repeating systems depend on accuracy, alignment, and consistency across cycles.
 
 
 ### Music, Math, and Computer Science Connection
