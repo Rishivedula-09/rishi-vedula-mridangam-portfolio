@@ -38,17 +38,27 @@ These are my original handwritten practice notes from class.
 
 ## Patterns I Learned (typed from my notes)
 
-Each of the following patterns fits within the Rupaka Tala cycle.
+This Rupaka korvai begins with a repeated phrase:
 
-Tha ki ta | Tha ka dhi mi (3 + 4)
+Thaka dhina thom  (4 beats)
 
-Tha dhin gi na thom | Tha ki ta (4 + 3)
+This phrase is played three times:
 
-Tha ka dhi mi | Tha ka jo nu (4 + 4 adjusted within cycle)
+4 + 4 + 4
 
-Tha dhin gi na thom | Tha dhin gi na thom (repeated grouping)
+After this, a shorter grouped phrase follows:
 
-Each pattern must stay aligned within the Rupaka Tala structure and resolve correctly before repeating.
+Tha dhe  |  kita thom  
+2 beats     2 beats
+
+This section is repeated as part of the structured sequence.
+
+Important:  
+In this korvai, the vertical line ( | ) represents a 2-matrai pause before continuing.
+
+This pause is intentionally placed and must be counted correctly to maintain alignment with the tala cycle.
+
+The korvai must resolve correctly at the starting point of the cycle after accounting for repetition and pause.
 
 
 ## Understanding the Rupaka Tala Structure
@@ -76,6 +86,18 @@ While practicing Rupaka Tala, I observed:
 - correct landing at the end of each cycle is important  
 
 This helped me understand how different tala structures create different rhythmic flows.
+
+## How the Pause Affects the Structure
+
+One important part of this korvai is the 2-matrai pause.
+
+Even though no syllable is played during the pause, it must still be counted as part of the total structure.
+
+This means the korvai is not only about sound, but also about silence.
+
+If the pause is not counted correctly, the final landing will not align with the tala cycle.
+
+This helped me understand that structure includes both action and controlled gaps.
 
 ---
 
@@ -208,6 +230,22 @@ predict resolution points
 maintain structure across longer sequences  
 
 I began to see rhythm not just as sound, but as a structured system that grows while staying balanced.
+
+
+## Structural Breakdown
+
+First phrase:
+4 + 4 + 4
+
+Transition phrase:
+2 + 2
+
+Pause:
+2 matrais
+
+Total structure must be tracked carefully so the korvai lands correctly on samam.
+
+This required careful counting before playing.
 
 
 ## Where This Is Leading
