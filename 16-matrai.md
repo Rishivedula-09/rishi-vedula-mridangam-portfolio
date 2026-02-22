@@ -203,7 +203,6 @@ It is easier to manage small systems, but longer cycles require thinking ahead a
 
 This experience strengthened my ability to think about structure over longer sequences rather than focusing only on short segments.
 
-Working with longer rhythmic cycles is helping me become more comfortable thinking about structure across longer sequences rather than focusing only on short patterns.
 
 ---
 ## What My Teacher Explained
