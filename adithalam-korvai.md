@@ -61,17 +61,6 @@ Each repetition must stay aligned with the tala cycle, and the final phrase must
 This requires careful counting and consistency.
 
 
----
-
-## Understanding the Structure
-
-While practicing this korvai, I noticed that:
-
-- patterns repeat in structured sequences  
-- each repetition must stay aligned with the tala  
-- the final pattern must land exactly on the starting beat  
-
-This requires careful counting and consistency.
 
 ---
 
@@ -118,17 +107,11 @@ Instead of thinking only in sound, I began thinking in structure.
 
 ### Repetition and Multiplication
 
-This korvai follows a repeated structure that is played three times before the final landing.
-
 Because the phrase is repeated ×3, I must calculate:
 
-phrase length  
-× number of repetitions  
-+ final resolving phrase  
+phrase length × number of repetitions + final resolving phrase
 
 The total must align with the 8-beat Adi Tala cycle.
-
-This showed me that korvai requires planning and multiplication, not just repetition.
 
 ### Planning the Resolution
 
