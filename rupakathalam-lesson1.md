@@ -206,6 +206,16 @@ predict resolution points
 maintain structure across longer sequences  
 
 I began to see rhythm not just as sound, but as a structured system that grows while staying balanced.
+
+
+Where This Is Leading
+
+As I continue learning more tala structures and korvais, I want to understand how rhythm systems scale and how structure can stay stable even as patterns become more complex.
+
+Over time, I hope to connect these ideas more clearly with mathematical thinking, system design, and real-world structured problem solving.
+
+This is still an ongoing learning process, and I plan to keep documenting what I observe and understand.
+
 ---
 
 ### Music, Math, and Computer Science Connection
