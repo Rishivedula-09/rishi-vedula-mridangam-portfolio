@@ -179,6 +179,8 @@ This helped me understand how structured systems depend on balance within fixed 
 
 This lesson showed me that even simple rhythmic cycles follow clear structural rules, and understanding those rules helps me think more carefully about patterns and systems in general.
 
+This made me realize that many real-world systems work the same way: they allow flexibility inside a fixed structure, but they still must satisfy the overall constraints to stay stable.
+
 
 
 ### What My Teacher Explained About Structure
