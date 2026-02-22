@@ -54,23 +54,6 @@ Each line completes one full 16-matrai cycle.
 All patterns must total 16 matrais before repeating.
 
 
-## Understanding the 16-Matrai Structure
-
-While practicing these patterns, I noticed that longer cycles require stronger internal counting and concentration.
-
-There are many ways to make 16:
-
-8 + 8  
-4 + 4 + 4 + 4  
-2 + 2 + 4 + 8  
-
-Even when the syllables change, the total must always remain 16.
-
-This helped me understand how longer rhythmic cycles stay balanced and structured.
-
-
-
-
 
 ---
 
@@ -220,7 +203,7 @@ It is easier to manage small systems, but longer cycles require thinking ahead a
 
 This experience strengthened my ability to think about structure over longer sequences rather than focusing only on short segments.
 
-
+Working with longer rhythmic cycles is helping me become more comfortable thinking about structure across longer sequences rather than focusing only on short patterns.
 
 ---
 ## What My Teacher Explained
@@ -231,6 +214,7 @@ Each pattern must resolve correctly at the end of the cycle and return to the st
 This reinforced the importance of structure, grouping, and balance in rhythm.
 
 ---
+
 
 
 ### Music, Math, and Computer Science Connection
