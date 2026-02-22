@@ -27,6 +27,8 @@ Each pattern must align correctly within the tala and repeat with consistency.
 ## Original Handwritten Notes
 ![Rupaka tala handwritten](images/rupakathalam-lesson1.jpg)
 
+These are my original handwritten practice notes from class.
+
 ---
 
 ## Download Original Notes (PDF)
@@ -104,9 +106,9 @@ These ideas are similar to pattern-based thinking where structure and timing mus
 
 ---
 
-How I Structured This Rupaka Lesson
+## How I Structured This Rupaka Lesson
 
-While practicing this Rupaka Tala lesson, I began breaking each phrase into counted units such as 4 bits.
+While practicing this Rupaka Tala lesson, I began breaking each phrase into counted units such as 4 beats grouping.
 
 This helped me clearly see:
 
@@ -120,7 +122,7 @@ Instead of memorizing only by sound, I started thinking in counted groupings.
 This made it easier to predict whether a pattern would stay balanced within the cycle.
 
 
-Repetition and Scaling
+## Repetition and Scaling
 
 In this lesson, some patterns are repeated multiple times.
 
@@ -137,7 +139,7 @@ If the repeated structure becomes too long or too short, it will not align corre
 This showed me that repetition requires planning and calculation, not just memorization.
 
 
-Expanding the Structure
+## Expanding the Structure
 
 As the lesson progressed, I noticed that the grouped phrases began expanding.
 
@@ -157,7 +159,7 @@ predict where the cycle resolves
 This required stronger concentration and planning across longer sequences.
 
 
-Planning the Resolution
+## Planning the Resolution
 
 In Rupaka Tala, every pattern must still resolve correctly within the cycle.
 
@@ -173,7 +175,7 @@ If the total grouping does not align correctly, the pattern must be adjusted.
 This required prediction and careful counting before execution.
 
 
-Structural Logic I Observed
+## Structural Logic I Observed
 
 This lesson helped me notice several structural ideas:
 
@@ -192,7 +194,7 @@ Logical / computational thinking
 Rupaka Tala helped me see how structure can grow while still following clear rules.
 
 
-What This Helped Me Realize
+## What This Helped Me Realize
 
 Practicing Rupaka Tala helped me become more aware of how structure changes as patterns grow longer.
 
@@ -208,7 +210,7 @@ maintain structure across longer sequences
 I began to see rhythm not just as sound, but as a structured system that grows while staying balanced.
 
 
-Where This Is Leading
+## Where This Is Leading
 
 As I continue learning more tala structures and korvais, I want to understand how rhythm systems scale and how structure can stay stable even as patterns become more complex.
 
