@@ -100,6 +100,85 @@ This made me think about how repetition and structure are important in both rhyt
 
 ---
 
+### How I Structured This Korvai
+
+While writing this korvai, I did not only memorize the syllables. I broke each phrase into counted units such as 2, 4, or 6 matrais.
+
+This helped me clearly see:
+
+- how long each phrase is  
+- how phrases combine into a larger sequence  
+- how the sequence repeats  
+- where the final landing occurs  
+
+By writing the korvai in grouped counts, I could predict whether the full structure would resolve correctly within the Adi Tala cycle.
+
+Instead of thinking only in sound, I began thinking in structure.
+
+
+### Repetition and Multiplication
+
+This korvai follows a repeated structure that is played three times before the final landing.
+
+Because the phrase is repeated ×3, I must calculate:
+
+phrase length  
+× number of repetitions  
++ final resolving phrase  
+
+The total must align with the 8-beat Adi Tala cycle.
+
+This showed me that korvai requires planning and multiplication, not just repetition.
+
+### Planning the Resolution
+
+In Adi Tala, the cycle has 8 beats.
+
+If the total number of matrais in the korvai does not align correctly with the cycle, the final stroke will not land on the starting beat.
+
+Before playing, I must calculate:
+
+- total matrais across repetitions  
+- how the pattern moves across cycles  
+- whether the final landing occurs on samam  
+
+If the structure does not resolve correctly, I must adjust the grouping.
+
+This requires prediction and careful counting.
+
+
+
+### Simple Structural Model
+
+Total cycle = 8 beats
+
+Korvai structure:
+(grouped phrase × repetitions) + final landing phrase
+
+If the total aligns with the tala cycle → resolves correctly ✔  
+If not → the structure must be adjusted ✘
+
+This helped me understand that korvai follows clear structural and logical rules.
+
+
+### What This Helped Me Realize
+
+Learning korvai showed me that rhythm is not only about repetition, but about prediction and structured resolution.
+
+A korvai must be designed before it is played.
+
+This strengthened my ability to:
+
+- think ahead  
+- calculate totals  
+- adjust structures  
+- execute with precision  
+
+I began to see rhythm as a system where planning and execution must work together.
+
+
+In this handwritten korvai, I grouped each phrase into counted units (2, 4, 6) to understand how the full structure resolves within the tala cycle.
+
 ---
 
 ### Music, Math, and Computer Science Connection
