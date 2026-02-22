@@ -54,7 +54,7 @@ While practicing korvai patterns, I noticed that repetition and structure are ve
 
 A korvai usually follows this format:
 
-pattern → repeat → repeat → final landing
+pattern → repeated sequence → final landing
 
 Each repetition must stay aligned with the tala cycle, and the final phrase must land correctly on the starting beat.
 
