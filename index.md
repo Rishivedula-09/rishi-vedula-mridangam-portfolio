@@ -66,6 +66,7 @@ An external profile describing his background and contributions to the performin
 - I will add short practice videos and written patterns over time.
 - I will maintain a dated notes log to show progress.
 
+- [Project Purpose](purpose.md)
 - [Instruments I Play](instruments.md)
 - [Carnatic Rhythm Lessons](carnatic-lessons.md)
 - [Rhythm Patterns](patterns.md)
