@@ -21,6 +21,26 @@ This slowly built my curiosity about how rhythm connects to mathematics, logic, 
 
 ---
 
+## Expanding Across Percussion Instruments
+
+As I progressed in mridangam, I began exploring additional percussion instruments in school.
+
+• 7th Grade – Snare drum and auxiliary percussion (including concert tongs and ensemble percussion)  
+• 8th Grade – Marimba  
+• 9th Grade – School band percussion (travel performances and coordinated ensemble playing)
+
+Each instrument required a slightly different form of timing, coordination, and rhythmic awareness.
+
+Snare drum strengthened precision and control.  
+Marimba introduced melodic structure layered over rhythm.  
+School band required synchronization within a larger group.
+
+This progression expanded my understanding of rhythm from solo structure to ensemble coordination.
+
+It also helped me see how rhythmic systems adapt across contexts while maintaining underlying structure.
+
+---
+
 ## Expanding Through Performance and Team Experience
 
 In 9th grade, I joined my high school band as a percussionist.
