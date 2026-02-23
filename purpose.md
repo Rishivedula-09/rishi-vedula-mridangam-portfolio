@@ -188,4 +188,4 @@ It reflects how my interests are evolving and how I am learning to apply structu
 
 ## Coming Next --> 
 
-Thinking about YouTube channel about hte interests and ideas.
+Thinking about YouTube channel about the interests and ideas.
