@@ -64,18 +64,20 @@ An external profile describing his background and contributions to the performin
 *Learning rhythm under my teacher’s guidance*
 
 ---
+## What This Project Documents
 
-## What I’m Building Next
+This portfolio documents my long-term learning journey in Carnatic rhythm, structured thinking, and pattern analysis.
 
-- I am organizing my learning into clear pages: Instruments, Carnatic Lessons, Patterns, Music → Math → CS, Notes, and Media.
-- I will add short practice videos and written patterns over time.
-- I will maintain a dated notes log to show progress.
+It includes:
 
-- [Project Purpose](purpose.md)
-- [Instruments I Play](instruments.md)
-- [Carnatic Rhythm Lessons](carnatic-lessons.md)
-- [Rhythm Patterns](patterns.md)
-- [Notes / Research Log](notes.md)
-- [Music → Math → Computer Science](music-math-cs.md)
-- [Media and Timeline](media.md)
+• Detailed tala and korvai lessons  
+• Structured rhythm breakdowns  
+• Connections between music, mathematics, and computer science  
+• Research notes and observations  
+• Practice recordings and progress tracking  
 
+The goal is to understand rhythm not only as music, but as a structured system involving logic, pattern recognition, and timing.
+
+
+- [Project Purpose](purpose.md)    - [Instruments I Play](instruments.md)   - [Carnatic Rhythm Lessons](carnatic-lessons.md)   - [Rhythm Patterns](patterns.md)     - [Notes / Research Log](notes.mdl)  
+- [Music → Math → Computer Science](music-math-cs.md)    - [Media & Timeline](media.md)
