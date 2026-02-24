@@ -171,4 +171,4 @@ Going forward, I plan to:
     -  Document observations as my understanding evolves
 
 
-    This page is an evolving record of that exploration as I continue developing both as a musician and as a student interested in structured and analytical thinking.
+This page is an evolving record of that exploration as I continue developing both as a musician and as a student interested in structured and analytical thinking.
