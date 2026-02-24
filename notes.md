@@ -184,7 +184,14 @@ This is an ongoing long-term learning project documenting how structured rhythm 
 
 
 
-Research Sources I Explored
+## Research Sources and References
+
+These are books, articles, and references I explored while learning rhythm, patterns, and connections to math and computer science.
+
+
+### Research Sources I Explored
+
+
 These are books, articles, and references I explored while learning rhythm, patterns, and connections to math and computer science.
 I use them to improve my understanding and to shape how I design this project.
 <br>
@@ -203,3 +210,6 @@ connect music with math and computer science
 improve how I document patterns and lessons
 design this project with accuracy and structure
 This research supports my long-term goal of exploring how rhythm, logic, and structured thinking connect across music, mathematics, and computing.
+
+
+These sources support my ongoing effort to understand rhythm not only as music, but as a structured system connected to mathematics, logic, and computing.
