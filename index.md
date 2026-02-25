@@ -81,3 +81,11 @@ The goal is to understand rhythm not only as music, but as a structured system i
 
 - [Project Purpose](purpose.md)    - [Instruments I Play](instruments.md)   - [Carnatic Rhythm Lessons](carnatic-lessons.md)   - [Rhythm Patterns](patterns.md)     - [Notes / Research Log](notes.md)  
 - [Music → Math → Computer Science](music-math-cs.md)    - [Media & Timeline](media.md)
+
+
+
+## Project Repository:  
+This project is maintained as a structured GitHub portfolio documenting long-term learning and exploration.
+
+## GitHub Repository:  
+https://github.com/rishivedula-09/rishi-vedula-mridangam-portfolio
