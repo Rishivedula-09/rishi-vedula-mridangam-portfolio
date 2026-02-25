@@ -88,4 +88,7 @@ The goal is to understand rhythm not only as music, but as a structured system i
 This project is maintained as a structured GitHub portfolio documenting long-term learning and exploration.
 
 ## GitHub Repository:  
-https://github.com/rishivedula-09/rishi-vedula-mridangam-portfolio
+
+🔗 **[GitHub Repository](https://github.com/rishivedula-09/rishi-vedula-mridangam-portfolio)**
+
+
