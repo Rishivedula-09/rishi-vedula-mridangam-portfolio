@@ -1,4 +1,4 @@
-# Rishi-Vedula-Mridangam-Portfolio
+# rishi-vedula-mridangam-portfolio
 Rishi Vedula - Interest and Journey of Indian Percussion - Mridangam 
 
 # Rhythm, Mathematics, and Structured Thinking
