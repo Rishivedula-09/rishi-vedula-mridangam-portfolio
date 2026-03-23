@@ -1,26 +1,76 @@
-# Media and Learning Timeline
+# Media — Mridangam Learning & Rhythm Exploration
 
-This page documents my learning journey over time through photos, videos, and performances. Media will be added gradually as part of this ongoing project.
+This page contains selected recordings from my learning journey with the **mridangam (pronounced: MREE-dun-gum)**.
 
----
+Some videos document my learning progress, while others explore how rhythmic patterns relate to **mathematics, structured thinking, and engineering systems**.
 
-## Learning Timeline
-
-- **2017** — Introduced to Mridangam while living in Orlando, Florida  
-- **2018–2019** — Regular practice and early lessons  
-- **2020** — First major community performance  
-- **2021–2022** — Continued learning online during COVID  
-- **2023** — Exposure to Western percussion instruments  
-- **2024–Present** — High school band, theory exploration, and pattern documentation  
+Over time, I became curious about how repeating rhythm cycles resemble ideas used in **computer engineering, digital systems, and signal timing**.  
+These recordings show both my practice and my exploration of those connections.
 
 ---
 
-## Practice Videos (Coming Soon)
+# Foundations — Understanding Rhythm Patterns
 
-I plan to add short videos (3–5 minutes each) demonstrating basic rhythm patterns at slow and normal speeds. These videos will focus on clarity and structure rather than performance.
+These videos introduce the basic structure of Carnatic rhythm and explain how repeating rhythmic cycles work.
+
+| Video Title | Video Link | What the Video Shows | Concept |
+|-------------|------------|----------------------|--------|
+| Mridangam Basics to Real World Applications | https://youtu.be/EPd6-czYQSk | Explains the Adi Talam 8-beat rhythm cycle and how patterns repeat. | Pattern recognition |
+| Connections of Thalams to Real World Systems | https://youtu.be/QHPN5xUe_34 | Demonstrates how rhythm cycles behave like repeating systems. | Cycles and timing |
+| Basic Connection between Mridangam and Computer Science | https://youtu.be/6gIvNPOda3s | Introduces how rhythm patterns can resemble logical structures used in computing. | Logical structure |
+| Example of Mridangam and Computer Science Connection | https://youtu.be/YPl3dbP_L28 | Short demonstration connecting rhythm patterns with structured data patterns. | Pattern analogy |
 
 ---
 
-## Photos (Coming Soon)
+# Lesson Series — Learning Adi Talam
 
-Photos from practice sessions, lessons, and community performances will be added gradually to show how my learning has evolved over time.
+These videos document my learning progression with **Adi Talam**, one of the most fundamental rhythmic cycles in Carnatic music.
+
+| Video Title | Video Link | What the Video Shows | Concept |
+|-------------|------------|----------------------|--------|
+| Aditalam First Lesson – Part 1 | https://youtu.be/P5fOSvAIkNA | Demonstrates the basic 8-beat rhythm played at steady speed. | Rhythm timing |
+| Aditalam First Lesson – Part 2 | https://youtu.be/XgyUrQ6pK54 | Breaks the rhythm into smaller repeating sections. | Modular patterns |
+| Aditalam First Lesson – Part 3 | https://youtu.be/ov7TXNNK9f0 | Demonstrates faster playing while maintaining accurate timing. | Precision |
+| Aditalam Visual Whiteboard Breakdown | https://youtu.be/dDNXEgjFUY8 | Uses a whiteboard to visually explain how the rhythm is structured. | Visual modeling |
+
+---
+
+# Advanced Rhythm Structures
+
+These videos demonstrate more complex rhythm patterns used in Carnatic percussion.
+
+| Video Title | Video Link | What the Video Shows | Concept |
+|-------------|------------|----------------------|--------|
+| Mishra Chapu Breakdown | https://youtu.be/xxgSf4XeYIE | Demonstrates the 7-beat Mishra Chapu rhythm cycle. | Odd rhythm patterns |
+| Mishra Chapu Left Hand Technique | https://youtu.be/xxgSf4XeYIE | Shows how hand positioning supports rhythm accuracy. | Technique |
+
+---
+
+# Short Demonstrations (YouTube Shorts)
+
+These short recordings capture quick rhythm demonstrations and performance examples.
+
+| Short Video | Link | Demonstration |
+|-------------|------|--------------|
+| Mishra Chapu Breakdown (Right Hand) | https://youtube.com/shorts/JMDxKYuA3rU | Right-hand technique demonstration |
+| Mishra Chapu Mohara Playing | https://youtube.com/shorts/o6Iu51ezk4c | Rhythmic ending pattern |
+| Mishra Chapu Mohara Konnakol | https://youtube.com/shorts/ApyeECDrqc0 | Vocal rhythm counting |
+| Kanda Chapu Mohara Fast Version | https://youtube.com/shorts/vMm6dlNjvcM | Fast 5-beat pattern |
+| Kanda Chapu Speed Playing | https://youtube.com/shorts/J3ZjHoA-eYg | High-speed rhythm demonstration |
+| Rupaka Talam Mohara | https://youtube.com/shorts/tGBLFxrSJWs | 3-beat rhythm ending |
+| Rupaka Talam Speed Playing | https://youtube.com/shorts/AeN5PeA8rIA | Fast rhythm variation |
+| Aditalam Mohara Speedy Playing | https://youtube.com/shorts/9Is5-Rl919k | Fast ending pattern |
+| 16-Matrai Pattern | https://youtube.com/shorts/oRd8ku0xhCo | Fast 16-beat rhythm |
+| 8-Matrai Pattern | https://youtube.com/shorts/ZLd2WMJNXBw | Fast 8-beat variation |
+
+
+---
+
+# Social Media
+
+**YouTube Channel**  
+Mridangam Patterns with Rishi  
+https://youtube.com/@mridangampatternswRishi
+
+**Instagram**  
+@mridgangampatternswithrishi
