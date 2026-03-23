@@ -1,4 +1,4 @@
-## Music, Math & Computer Science
+## Music, Math & Engineering
 
 ### Why I Started Thinking About This
 
