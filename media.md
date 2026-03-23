@@ -5,7 +5,18 @@ This page contains selected recordings from my learning journey with the **mrida
 Some videos document my learning progress, while others explore how rhythmic patterns relate to **mathematics, structured thinking, and engineering systems**.
 
 Over time, I became curious about how repeating rhythm cycles resemble ideas used in **computer engineering, digital systems, and signal timing**.  
-These recordings show both my practice and my exploration of those connections.
+These recordings show both my practice and my exploration of those connections in my social media.
+
+--
+
+# Social Media
+
+**YouTube Channel**  
+Mridangam Patterns with Rishi  
+https://youtube.com/@mridangampatternswRishi
+
+**Instagram**  
+@mridgangampatternswithrishi
 
 ---
 
@@ -66,11 +77,4 @@ These short recordings capture quick rhythm demonstrations and performance examp
 
 ---
 
-# Social Media
 
-**YouTube Channel**  
-Mridangam Patterns with Rishi  
-https://youtube.com/@mridangampatternswRishi
-
-**Instagram**  
-@mridgangampatternswithrishi
