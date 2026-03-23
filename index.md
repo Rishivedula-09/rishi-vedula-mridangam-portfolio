@@ -4,7 +4,7 @@
 ## Project Navigation
 
 - [Project Purpose](purpose.md)    - [Instruments I Play](instruments.md)   - [Carnatic Rhythm Lessons](carnatic-lessons.md)   - [Rhythm Patterns](patterns.md)     - [Notes / Research Log](notes.md)  
-- [Music → Math → Computer Science](music-math-cs.md)    - [Media & Timeline](media.md)
+- [Music → Math → Engineering](music-math-cs.md)    - [Media & Timeline](media.md)
 
 This portfolio documents my long-term journey learning rhythm through mridangam and percussion.
 I am especially interested in how rhythm connects with patterns, mathematics, and structured thinking.
