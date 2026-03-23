@@ -103,3 +103,12 @@ This project is maintained as a structured GitHub portfolio documenting long-ter
 🔗 **[GitHub Repository](https://github.com/rishivedula-09/rishi-vedula-mridangam-portfolio)**
 
 
+---
+
+### AI Assistance Note
+
+Artificial intelligence tools were occasionally used during this project to assist with research, brainstorming ideas, and organizing content while building this GitHub website. The rhythm demonstrations, practice recordings, and reflections presented here represent my own learning journey studying the mridangam.
+
+----
+
+
