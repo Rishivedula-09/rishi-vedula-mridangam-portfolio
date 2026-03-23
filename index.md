@@ -83,7 +83,7 @@ It includes:
 
 • Detailed tala and korvai lessons  
 • Structured rhythm breakdowns  
-• Connections between music, mathematics, and computer science  
+• Connections between music, mathematics, and computer science & engineering
 • Research notes and observations  
 • Practice recordings and progress tracking  
 
