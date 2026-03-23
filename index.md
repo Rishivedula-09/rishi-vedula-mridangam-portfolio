@@ -8,7 +8,7 @@
 This portfolio documents my long-term journey learning rhythm through mridangam and percussion.
 I am especially interested in how rhythm connects with patterns, mathematics, and structured thinking.
 
-![Rishi practicing mridangam](images/rishi.jpg)
+![Rishi practicing mridangam](images/rishi1.jpg)
 
 *Practice session during my learning journey*
 
