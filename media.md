@@ -8,12 +8,10 @@ Some videos document my practice and performances, while others explore how rhyt
 
 # Social Media
 
-**YouTube Channel**  
-Mridangam Patterns with Rishi  
-https://youtube.com/@mridangampatternswRishi  
-
-**Instagram**  
-@mridgangampatternswithrishi
+| Platform | Link |
+|---------|------|
+| YouTube | [Mridangam Patterns with Rishi](https://youtube.com/@mridangampatternswRishi) |
+| Instagram | [@mridgangampatternswithrishi](https://www.instagram.com/mridgangampatternswithrishi/) |
 
 ---
 
