@@ -1,4 +1,5 @@
-# Rishi Vedula — Mridangam, Rhythm, and Structure
+# Rishi Vedula — Mridangam, Rhythm, and Structured Thinking
+## Exploring rhythm patterns through music, mathematics, and engineering thinking
 
 ## Project Navigation
 
