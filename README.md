@@ -130,7 +130,6 @@ The goal is to continue building both musical understanding and structured analy
 ### Live Project Site
 GitHub Pages Portfolio:
 
-
 🔗 **[View Live Portfolio](https://rishivedula-09.github.io/rishi-vedula-mridangam-portfolio/)**
 
 
