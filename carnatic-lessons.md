@@ -8,7 +8,6 @@ Each lesson includes original handwritten notes, structured rhythm patterns, and
 These lessons reflect long-term discipline and help me understand rhythm as structured patterns built on timing and repetition.
 
 ---
-
 ## Lesson Index
 
 ### Matrai Structure Lessons
