@@ -14,7 +14,6 @@ I am especially interested in how rhythm connects with patterns, mathematics, an
 *Practice session during my learning journey*
 
 
-
 ---
 
 ## My Journey with Mridangam
