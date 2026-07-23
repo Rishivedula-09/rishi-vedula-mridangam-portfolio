@@ -220,5 +220,6 @@ This reinforced the importance of structure, grouping, and balance in rhythm.
 
 This lesson connects to mathematical and computational thinking.
 
+
 See full connections here:  
 ➡️ [Music → Math → Computer Science Connections](music-math-cs-connections.md)
