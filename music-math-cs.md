@@ -15,7 +15,6 @@ Rhythm involves:
 
 
 
-
 While practicing lessons like 8-matrai patterns, I started seeing connections between rhythm, mathematical thinking, and logical structure.
 This made me curious about how music, math, and computer science might be connected.
 
