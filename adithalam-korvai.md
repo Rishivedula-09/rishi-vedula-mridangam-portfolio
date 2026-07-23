@@ -3,7 +3,6 @@
 [⬅ Back to Carnatic Lessons](carnatic-lessons.md)
 
 ---
-
 ## What is a Korvai?
 
 A korvai is a structured rhythmic pattern that is repeated and completed to land precisely on the starting beat of the tala cycle.
